@@ -12,6 +12,13 @@ SESSION_NAME = "user_session"
 CHANNEL_LINK = "https://t.me/+OW1Plu01XQs2Y2Fl"  # Jahan user ids bhejne hain
 
 GROUP_LINKS = [
+    "https://t.me/+kLjsw-WqpuFkZjM1",
+    "https://t.me/BUZZ_IGCC_CHATS",
+    "https://t.me/+F9Pp5_gHDB9jYzQ1",
+    "https://t.me/BuzzEscrowe",
+    "https://t.me/+mcMK_XK6J4M1NDE1",
+    "https://t.me/+3khxeH9j6pViMjU9",
+
 ]  # Sirf in groups se uthana hai
 
 SAVED_USERS_FILE = "saved_users.txt"
