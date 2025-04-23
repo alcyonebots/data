@@ -9,7 +9,7 @@ API_ID = int(input(Fore.CYAN + "Enter your API ID: "))
 API_HASH = input(Fore.CYAN + "Enter your API HASH: ")
 SESSION_NAME = "user_session"
 
-CHANNEL_LINK = "https://t.me/+OW1Plu01XQs2Y2Fl"  # Jahan user ids bhejne hain
+CHANNEL_LINK = "https://t.me/+FZc60FEWcqxkNzJl"  # Jahan user ids bhejne hain
 
 GROUP_LINKS = [
     "https://t.me/+kLjsw-WqpuFkZjM1",
